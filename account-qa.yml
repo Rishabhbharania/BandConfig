@@ -1,0 +1,9 @@
+build:
+  version: "2.0"
+accounts:
+  message: "welcome to the accounts qa Environment"
+  contactDetails:
+    name: "rishabh bharania"
+    email: "{cipher}38afedb389f2152e7380e95e5f264a9a163cae14fe1799180c0b9fdcd3f020d20acf62ad37e1d3ceb88102e7a9e49e63"
+  onCallSupport:
+    -8468*****

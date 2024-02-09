@@ -1,0 +1,9 @@
+build:
+  version: "2.0"
+accounts:
+  message: "welcome to the Loan QA Environment"
+  contactDetails:
+    name: "rishabh bharania"
+    email: "rishabhbharania12@gmail.com"
+  onCallSupport:
+    -8468*****

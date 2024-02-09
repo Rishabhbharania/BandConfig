@@ -1,0 +1,9 @@
+build:
+  version: "3.0"
+accounts:
+  message: "welcome to the accounts prod Environment"
+  contactDetails:
+    name: "rishabh bharania"
+    email: "rishabhbharania12@gmail.com"
+  onCallSupport:
+    -8468*****
