@@ -1,1 +1,10 @@
-dsd
+server:
+  port: 8070
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetchRegistry: false
+    registerWithEureka: false
+    serviceUrl:
+      defaultXone: http://${wureka.instance.hostname}:${server.port}/eureka/
